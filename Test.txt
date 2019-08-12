@@ -1,1 +1,9 @@
-{\rtf1}
+public class Test1{
+	public static void main(String[] args){
+		int firstNumber = 20;
+		float secondNumber = 15.5f;
+		float sum = firstNumber + secondNumber;
+		
+		System.out.print(sum);
+	}
+}
